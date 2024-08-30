@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm David and I'm studying Computer Science and Information Techology Web Science at Rensselaer Polytechnic Institute (RPI)
+
+⚡Work Experience:
+
+- Incoming Software Engineer Intern at 84.51° [Spring 2025]
+- Software Engineer Intern at Harp Research [Summer 2024]
+- Undergraduate Research Assistant at RPI [Fall 2024]
+- Undergraduate Teaching Assistant at RPI [Fall 2024]
+
+🌱 Interests:
+
+- Building projects and learning new things.
+- Badminton
+- Video Games
