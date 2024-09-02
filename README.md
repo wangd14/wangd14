@@ -18,7 +18,7 @@ I'm David and I'm studying Computer Science and Information Techology Web Scienc
 
 ⚡Work Experience:
 
-- **Incoming Software Engineer Intern at 84.51°** [Chicago. IL. Spring 2025]
+<!--- **Incoming Software Engineer Intern at 84.51°** [Chicago. IL. Spring 2025] -->
 - **Software Engineer Intern at Harp Research** - Fullstack dev working on Viewpoint (Email automation extention) [Remote. Summer 2024]
 - **Undergraduate Research Assistant at RPI** - Network Science and Technology (NEST) Center [Troy, NY. Fall 2024]
 - **Undergraduate Teaching Assistant at RPI** - Foundations of Computer Science (FOCS) / Discrete Math [Troy, NY. Fall 2024]
