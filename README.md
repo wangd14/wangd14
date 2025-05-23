@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm David and I'm studying Computer Science and Information Techology Web Science at Rensselaer Polytechnic Institute (RPI)
 
 ⚡Work Experience:
-
+- **Software Engineer Intern at Amazon** [Bellevue, WA | Summer 2025]
 - **Software Engineer Intern at 84.51°** [Chicago, IL | Spring 2025]
 - **Software Engineer Intern at Harp Research** - Fullstack dev working on Viewpoint (Email automation extention) [Remote | Summer 2024]
 - **Undergraduate Research Assistant at RPI** - Network Science and Technology (NEST) Center [Troy, NY | Fall 2024]
