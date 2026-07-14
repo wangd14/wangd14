@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm David and I'm studying Computer Science and Information Techology Web Science at Rensselaer Polytechnic Institute (RPI)
+I'm David and I'm a computer science graduate from Rensselaer Polytechnic Institute (RPI)
 
 ⚡Work Experience:
-- **LLM Agent Security Researcher at Data Security and Privacy Lab at RPI** [Troy, NY | Fall 2025]
+- **Software Engineer at Amazon**
 - **Undergraduate Teaching Assistant at RPI** - Introduction to Algorithms [Troy, NY | Fall 2025]
 - **Software Engineer Intern at Amazon** [Bellevue, WA | Summer 2025]
 - **Software Engineer Intern at 84.51°** [Chicago, IL | Spring 2025] [My Profile](https://github.com/davidwang-8451)
